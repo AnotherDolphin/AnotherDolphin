@@ -1,4 +1,8 @@
-### Hi there 👋
+![stats](https://github-readme-stats.vercel.app/api?username=AnotherDolphin&hide=contribs&show_icons=true&theme=dark)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnotherDolphin&layout=compact&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=AnotherDolphin)
 
 <!--
 **AnotherDolphin/AnotherDolphin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

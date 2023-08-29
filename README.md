@@ -1,4 +1,4 @@
-![stats](https://github-readme-stats.vercel.app/api?username=AnotherDolphin&hide=contribs&show_icons=true&theme=dark)
+<!--![stats](https://github-readme-stats.vercel.app/api?username=AnotherDolphin&hide=contribs&show_icons=true&theme=dark)-->
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnotherDolphin&layout=compact&theme=dark)
 
